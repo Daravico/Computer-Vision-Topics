@@ -1,3 +1,4 @@
+# Main Topics Covered in this section.
 - Fundamentos de procesamiento de imágenes
 - Operaciones básicas para la manipulación de imágenes
 - Espacios de color e histogramas
