@@ -163,4 +163,5 @@ cython_debug/
 /cv-env
 
 model/
+models/
 data/
